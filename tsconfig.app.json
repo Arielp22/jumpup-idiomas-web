@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    // ...opciones generadas por Vite (target, lib, moduleResolution, jsx, etc.) sin cambios...
+
+    /* Path alias */
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["src"]
+}
